@@ -1,11 +1,15 @@
 here is a list of public ids on zeronet
+
 to submit one,
 open a pull request
 or submit it at
 (english) http://127.0.0.1:43110/Talk.ZeroNetwork.bit/?Topics:1551176935_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1/public+id+submission
 or
 (chinese) http://127.0.0.1:43110/NewGFWTalk.bit/?Topic:20_1Ekf2tGQLhG3iifFsuUk9RcBPx26cQmCD1/+id
+
+please note that other users of the public id may modify or delete your message sent with the public id.
 below is the list
+
 ====
 master_seed=7d0ae0e2bebafb7d02440979c407896796727e30a5d2c27565ed1d1ea2ba4f87
 id=anonymouslogin@zeroid.bit;anonymouslogin@cryptoid.bit;anonymouslogin@kaffie.bit;
@@ -22,3 +26,4 @@ id=publicid@zeroid.bit;
 creator=60@zeroid.bit
 maintainer=bad@zeroid.bit;
 ====
+(end of file)
